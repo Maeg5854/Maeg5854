@@ -1,16 +1,13 @@
 ### Hi there 👋
 
 ##### 🎄 Skills
-![spring](https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white)
-![springBoot](https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=SpringBoot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
 
-
-![Java](https://img.shields.io/badge/Java-6db33f?style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square)
+![Java](https://img.shields.io/badge/Java-6db33f?style=flat-square)
 ![C++](https://img.shields.io/badge/C++-0E1128?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-ff6f00?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479a1?style=flat-square)
